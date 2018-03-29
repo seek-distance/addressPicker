@@ -1,4 +1,5 @@
-# A addressPicker component for Vue(基于vue省区市三级联动组件)
+
+# 基于vue省区市三级联动组件
 
 ## 如何使用
 1. 首先项目需要引入mint-ui(npm install mint-ui)
@@ -26,7 +27,9 @@ export default {
 ## Prop
 v-model: 接受一个数组[省份，城市，地区]
 
-----
+
+
+# A addressPicker component for Vue
 ## How to use
 1. You need to install mint-ui in your project(npm install mint-ui)
 2. import addressPicker folder to your project
